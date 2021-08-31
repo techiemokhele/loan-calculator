@@ -16,3 +16,5 @@ Key concepts covered :
 6.) DOM manipulation
 7.) JavaScript CSS Manipulation
 8.) eventListener()
+
+Preview web application here: https://techiemokhele.github.io/loan-calculator/
