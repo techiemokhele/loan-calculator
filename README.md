@@ -18,3 +18,5 @@ Key concepts covered :
 8.) eventListener()
 
 Preview web application here: https://techiemokhele.github.io/loan-calculator/
+
+![image](https://user-images.githubusercontent.com/67394147/131594354-9fc7a33a-998d-485f-ad2b-77ba06179172.png)
